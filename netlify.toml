@@ -17,9 +17,9 @@ REPO_URL = "https://github.com/alizain-c/DS1-Exam2-Obsidian"
 # (Optional) Site title in navbar
 SITE_TITLE = "Someone's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = ""
+SITE_TITLE_TAB = "DS1 Exam2 Review"
 # (REQUIRED) Netlify site URL
-SITE_URL = ""
+SITE_URL = "https://curious-biscochitos-5ce429.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
