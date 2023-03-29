@@ -4,7 +4,7 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Exam 2 Review"
+LANDING_BUTTON = "Click on Exam 2 Review Node Below👇"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = " "
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./Exam 2 Review Map.md)
