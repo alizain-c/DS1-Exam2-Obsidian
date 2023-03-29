@@ -1,0 +1,1 @@
+This is the node that starts the tree. In a normal decision tree it evaluates the variable that best splits the data.

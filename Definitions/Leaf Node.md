@@ -1,0 +1,1 @@
+These are the final nodes of the tree, where the predictions of a category or a numerical value are made.

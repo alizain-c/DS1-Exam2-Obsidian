@@ -1,0 +1,1 @@
+These are also known as Intermediate Nodes. These are nodes where variables are evaluated but which are not the final nodes where predictions are made.
