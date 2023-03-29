@@ -3,7 +3,11 @@ command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || tr
 publish = "public"
 
 [build.environment]
-# (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
+# (Optional) Text in landing page button
+LANDING_BUTTON = "Exam 2 Review"
+# (Optional) Site description on landing page
+LANDING_DESCRIPTION = " "
+# (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./Exam 2 Review Map.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
 LANDING_TITLE = "DS 1 Exam 2 Review - Spring '23"
